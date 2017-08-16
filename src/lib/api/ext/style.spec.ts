@@ -14,7 +14,7 @@ import {MatchMedia} from '../../media-query/match-media';
 import {DEFAULT_BREAKPOINTS_PROVIDER} from '../../media-query/breakpoints/break-points-provider';
 import {BreakPointRegistry} from '../../media-query/breakpoints/break-point-registry';
 
-import {LayoutDirective} from './layout';
+import {LayoutDirective} from '../flexbox/layout';
 import {StyleDirective} from './style';
 import {MediaQueriesModule} from '../../media-query/_module';
 
